@@ -1,5 +1,5 @@
 # Health-Care-Covid-19-Chat-Bot-Application-WITH-NLP-AND-DEEP-LEARNING
-##Project description :
+## Project description :
 <br>
 - The aim of this project is to create a Smart Chat Bot in the context of eHealth applications. Smart
 Chatbot is a mechanized chatbot that gets questions from its clients and attempts to comprehend
